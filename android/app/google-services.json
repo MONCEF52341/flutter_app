@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "991031894657",
+    "project_id": "flutter-base-emsi",
+    "storage_bucket": "flutter-base-emsi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991031894657:android:9b8ee830ed8466abd0a380",
+        "android_client_info": {
+          "package_name": "com.example.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUq4KSMcxHfLYRBrGw_2V1xqSa2dgRgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991031894657:android:d98736d3de65c74dd0a380",
+        "android_client_info": {
+          "package_name": "emsi.flutter.moncef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUq4KSMcxHfLYRBrGw_2V1xqSa2dgRgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991031894657:android:690a4875791d1555d0a380",
+        "android_client_info": {
+          "package_name": "ma.emsi.flutterbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUq4KSMcxHfLYRBrGw_2V1xqSa2dgRgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
