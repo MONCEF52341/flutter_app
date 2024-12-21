@@ -92,7 +92,7 @@ class Login extends StatelessWidget {
           controller: _emailController,
           decoration: InputDecoration(
               filled: true,
-              hintText: 'MONCEF.MOSTAINE@gmail.com',
+              hintText: 'login:user.user@user.com mdp:useruser',
               hintStyle: const TextStyle(
                   color: Color(0xff6A6A6A),
                   fontWeight: FontWeight.normal,

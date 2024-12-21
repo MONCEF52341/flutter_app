@@ -1,3 +1,4 @@
+
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app/services/auth_service.dart';
@@ -54,7 +55,7 @@ class Home extends StatelessWidget {
             ),
             ListTile(
               leading: Icon(Icons.home, color: Colors.purple),
-              title: Text("Covid Tracker"),
+              title: Text("CNN Fruits"),
               onTap: () {
                 Navigator.pop(context);
               },
